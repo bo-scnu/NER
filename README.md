@@ -1,2 +1,2 @@
-# NER
-network security named entity recognition, Chinese
+中文的网络安全实体识别任务
+数据来自贵州大学计算机科学与技术学院网络安全实验室
